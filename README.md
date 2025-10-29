@@ -13,5 +13,8 @@ Aplicación PHP simple para desplegar en Minikube con Kubernetes.
 - Kubernetes
 - Minikube
 
-## Autor
-[Tu nombre]
+## Autores
+TECH MOMS:
+- HASSEN, Verónica
+- HOMOBONO, Daniela
+- ZAGORDO, Roma
